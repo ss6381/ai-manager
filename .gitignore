@@ -11,3 +11,5 @@ build/
 
 # Ignore dist directory
 dist/
+
+*.env
